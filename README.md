@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antinkuntinovski
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Deep Learning, Reinforcement Learning and WebAR development
+- 🌱 I’m currently learning Deep Learning, Reinforcement Learning and Computer Vision
 - 💞️ I’m looking to collaborate on projects related to AI
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/ahmetbahadirozer/
 
